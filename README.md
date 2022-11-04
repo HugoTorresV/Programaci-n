@@ -1,2 +1,2 @@
-# Programaci-n
+# Programación
 Esto es una prueba
